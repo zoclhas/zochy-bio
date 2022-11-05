@@ -82,6 +82,8 @@ body {
 }
 
 .theme-wrapper {
+    z-index: 99;
+
     background: var(--bg1);
     width: 4rem;
     height: 4rem;
