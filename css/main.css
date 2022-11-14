@@ -168,7 +168,7 @@ main {
 .link-card-2 {
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: space-between;
     gap: 0.3rem;
 }
 
